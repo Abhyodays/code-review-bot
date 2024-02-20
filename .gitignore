@@ -1,2 +1,7 @@
 node_modules
 .env
+analyzeCode.js
+getContent.js
+CodeAnalyzer/CodeAnalyzer/bin
+CodeAnalyzer/CodeAnalyzer/obj
+CodeAnalyzer/.vs
